@@ -1,2 +1,4 @@
 # Projeto Banco de Dados
-Repositório sobre projeto PowerHome, realizado para conclusão da matéria Banco de Dados da faculdade UMC
+PowerHome - Sistema de Monitoramento de Energia 
+
+Sobre o Projeto: Solução IoT para monitoramento e gestão de consumo energético residencial, desenvolvida como trabalho de conclusão da disciplina de Engenharia de Software na UMC.
